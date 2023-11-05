@@ -15,7 +15,7 @@ class Anony(Client):
             api_hash=config.API_HASH,
             bot_token=config.BOT_TOKEN,
             in_memory=True,
-            parse_mode=ParseMode.HTML,
+            parse_mode=ParseMode.MARKDOWN,
             max_concurrent_transmissions=7,
         )
 
@@ -30,10 +30,11 @@ class Anony(Client):
             await self.send_message(
                 chat_id=config.LOGGER_ID,
                 text=f"<u><b>» {self.mention} ʙᴏᴛ sᴛᴀʀᴛᴇᴅ :</b><u>\n\nɪᴅ : <code>{self.id}</code>\nɴᴀᴍᴇ : {self.name}\nᴜsᴇʀɴᴀᴍᴇ : @{self.username}",
+                parse_mode=ParseMode.HTML
             )
         except (errors.ChannelInvalid, errors.PeerIdInvalid):
             LOGGER(__name__).error(
-                "Bot has failed to access the log group/channel. Make sure that you have added your bot to your log group/channel."
+                "Bot has failed to access the log group/channel. Make sure that you have added your bot to your log group/channel.",
             )
             exit()
         except Exception as ex:

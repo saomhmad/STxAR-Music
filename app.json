@@ -1,7 +1,7 @@
 {
-    "name": "ᴢᴇ ダ ᴍᴜsɪᴄ",
+    "name": "Arab Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/dd6c46b812395a1b607e9.jpg",
+    "logo": "https://telegra.ph/file/d3e3f6065afe3838cb62a.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,7 +13,7 @@
     ],
     "env": {
       "API_ID": {
-        "description": "ال ايه بي اي ايدي استخرجه من هنا  https://my.telegram.org",
+        "description": " الابي ايدي ايدي استخرجه من هنا  https://my.telegram.org",
         "value": "",
         "required": true
       },
@@ -66,7 +66,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://telegra.ph/file/d3e3f6065afe3838cb62a.jpg"
           }
       ],
       "stack": "container"

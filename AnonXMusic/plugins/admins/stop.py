@@ -32,4 +32,4 @@ async def stop_musicch(client, message):
         return
     await Anony.stop_stream(chat_id)
     await set_loop(chat_id, 0)
-    await message.reply_text("❤️‍🔥 وقفت الاغاني لي يا نكدي \n\n❤️‍🔥 قـناه السـورس @COURSE_CAESAR")
+    await message.reply_text(" وقفت الاغاني ليش راح اكلملك علاوي حبيب گلبي🤣 \n\n قـناه السـورس @v_g_g")

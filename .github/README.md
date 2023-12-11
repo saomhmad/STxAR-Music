@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴢᴇ ダ ᴍᴜsɪᴄ 」──
+    ──「 Arab Music 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd6c46b812395a1b607e9.jpg">
+  <img src="https://telegra.ph/file/d3e3f6065afe3838cb62a.jpg">
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://telegra.ph/file/d3e3f6065afe3838cb62a.jpg">
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 Arab Music 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Source-Ze/ZE-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+7tvSp_6ZD5QyMzg0"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
